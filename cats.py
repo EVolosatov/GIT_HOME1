@@ -11,3 +11,5 @@ plt.imshow(img)
 plt.axis('off')
 plt.title('Котики')
 plt.show()
+
+# Evgeniy molodec
