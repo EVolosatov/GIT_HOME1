@@ -12,4 +12,4 @@ plt.axis('off')
 plt.title('Котики')
 plt.show()
 
-# Evgeniy molodec
+# Privet medved 
